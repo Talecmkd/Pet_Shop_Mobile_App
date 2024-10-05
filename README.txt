@@ -1,3 +1,4 @@
+A Pet Shop Mobile App done on an Erasmus Exchange in Izmir - Turkey.
 Video link: https://youtu.be/ZpLbNpByVWo
 
 1. Register --> register by e-mail and password, where we write our name, surname, phone number, bio and role (buyer or seller)
